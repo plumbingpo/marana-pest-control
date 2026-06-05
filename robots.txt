@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maranapestcontrolco.com/sitemap.xml
